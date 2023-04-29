@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @CrusaderVII
-- 👀 I’m interested in programming)
-- 🌱 I’m currently learning Java)))we need moreeeee brackets)))
-- 📫 How to reach me? you can use this mail: crusaderworkvii@gmail.com
+- 📫 How to reach me? you can use this mail: egor.chervonikov@yandex.ru
+
+- Also you can see my codewars stats:
+
+![Codewars](https://github.r2v.ch/codewars?user=CrusaderVII&stroke=%23BB432C)
 
 <!---
 CrusaderVII/CrusaderVII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
